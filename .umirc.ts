@@ -4,7 +4,7 @@ import { defineConfig } from 'dumi';
 const repo = 'Fl-UI'; // 项目名(也就是你的仓库名)
 
 export default defineConfig({
-  title: 'FL Design', // 你的组件库名字
+  title: 'FL-UI', // 你的组件库名字
   // 你的网站 tabs 图片
   favicon: 'https://found-img-blog.oss-cn-hangzhou.aliyuncs.com/img/logo.png',
   // 你的官网logo
